@@ -1,0 +1,21 @@
+.panda-bg {
+    background-color: #fceae8;
+}
+.categories img{
+      width: 100px;
+}
+.watch{
+    background-color: #ffa500;
+}
+.bag{
+    background-color: #da70d6 ;
+}
+.shoes{
+    background-color: #0000ff;
+}
+.footer{
+    background-color: #fceae8;
+}
+.button{
+background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
